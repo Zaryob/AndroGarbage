@@ -39,11 +39,12 @@ public class MainActivity extends AppCompatActivity {
                     }else {
                         clicked.add(finalI);
                     }
+                    textView.setText("Pressed Buttons are " + clicked.toString());
+                    System.gc();
                 }
             });
         };
 
-        textView.setText("Pressed Buttons are " + clicked.toString());
 
     }
 }
