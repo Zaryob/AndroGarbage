@@ -34,10 +34,10 @@ public class MainActivity extends AppCompatActivity {
             final int finalI = i;
             button[i].setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                    if (clicked.contains(finalI)) {
-                        clicked.remove(finalI);
+                    if (clicked.contains(finalI+1)) {
+                        clicked.remove(clicked.indexOf(finalI+1));
                     }else {
-                        clicked.add(finalI);
+                        clicked.add(finalI+1);
                     }
                     textView.setText("Pressed Buttons are " + clicked.toString());
                     System.gc();
