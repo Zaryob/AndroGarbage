@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextViewTest</string>
+    <string name="hello_world">Hello World</string>
+    <string name="another_textview">Click to see link...</string>
+</resources>

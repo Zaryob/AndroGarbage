@@ -13,7 +13,7 @@ Tamamen öğrenmek için olan örnekleri içeriyor.
 * [LinearLayoutTest](https://github.com/Zaryob/AndroGarbage/tree/master/LinearLayoutTest): LinearLayout formunun horizontal ve vertical formlarda button objelerinin listelenmesi ve buttonların listenlerinin dinlenmesine ait örnek uygulama
 * [ImageViewTest](https://github.com/Zaryob/AndroGarbage/tree/master/ImageViewTest): ImageView formunun butona bağlanıp değiştirilmesinin amaçlayan uygulama. Yavaş yavaş listener bağlamaları anladım sanırım.
 * [ToastMakerTest](https://github.com/Zaryob/AndroGarbage/tree/master/ImageViewTest): Toast olarak adlandırılan bildirim baloncuklarını kullanmakla alakalı uygulama örneklerini içerir. 3 tane toast ard arda gelmektedir. İlk toast bildirimi öntanımlı pozisyon ve görünüm ile yapılmıştır. İkincisi öntanımlı bildirimi pozisyonu değiştirilmiş halidir. Sonuncu ise hem pozisyonu hem de görünümü değiştirilmiş custom bildirimdir.
-
+* [TextViewTest](https://github.com/Zaryob/AndroGarbage/tree/master/TextViewTest): TextView formunun butona bağlanıp değiştirilmesinin amaçlayan uygulama. Dokununca Toast oluşturuyor ve görünür text değiştiriliyor.
 
 Notlar
 ------
