@@ -19,4 +19,5 @@ Notlar
 ------
 
 ## Bir Öğrenicinin Yaşadığı Sık Rastlanılan Hatalar
-	* error running app: default activity not found hatası: Çözümü aslında basit. Şu [linkte](https://stackoverflow.com/a/15825326) anlatılmış. Ana fikri ise AndroidManifest dosyasında application tagı içeriğini doldurmakla alakalı
+
+* error running app: default activity not found hatası: Çözümü aslında basit. Şu [linkte](https://stackoverflow.com/a/15825326) anlatılmış. Ana fikri ise AndroidManifest dosyasında application tagı içeriğini doldurmakla alakalı
