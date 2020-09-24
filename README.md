@@ -16,6 +16,8 @@ Tamamen öğrenmek için olan örnekleri içeriyor.
 * [TextViewTest](https://github.com/Zaryob/AndroGarbage/tree/master/TextViewTest): TextView formunun butona bağlanıp değiştirilmesinin amaçlayan uygulama. Dokununca Toast oluşturuyor ve görünür text değiştiriliyor.
 * [ButtonTest](https://github.com/Zaryob/AndroGarbage/tree/master/ButtonTest): Bu uygulama ile Buttona basılmaya bağlı olarak belirli bir web sitesine girmeyi sağlayan bir uygulama yazıldı. Intent objesinin kullanımı için basit bir örnek niteliğinde.
 * [IntentExample](https://github.com/Zaryob/AndroGarbage/tree/master/IntentExample): Bu uygulama ile Intent veri tipinin url ile kullanılmasını sağlayan bir application yazdım. Basitce anlatmak gerekirse bir EditText kısmı var ve bu EditText objesinin (kullanımı TextView ile çok yakın bir objedir) içerisine girilen url'yi alıp o sayfayı açmak için tarayıcılara yönlendirme yapıyor. Buradaki tek sıkıntı ise hata oluşması anında uygulamanın çökmesi idi. Intent objesi eğer belirtilen türe uygun bir path bulamazsa (mesela url verisi için https:// ile başlaya link) uygulama çakılıyordu. Bir try catch ve toast eklemesi ile bu sıkıntı tatlıya bağlandı :joy:
+* [SimpleTimer](https://github.com/Zaryob/AndroGarbage/tree/master/SimpleTimer): SimpleTimer uygulaması içerisinde geri sayım için bir uygulamadır. countdowntimer sınıfından türetilmiş bir timer içeriyor. Uri sınıfını kullanarak zamanın bitmesine mütakip notification sound da çaldırmayı bu uygulama ile öğrenebilirsiniz.
+
 
 
 Notlar
