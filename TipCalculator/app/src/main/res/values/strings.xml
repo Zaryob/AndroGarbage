@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="hello">Hello World, TipsterActivity!</string>
+    <string name="app_name">TipCalculator</string>
+    <string name="textLabel1">Total amount:</string>
+    <string name="textLabel2">No. of people:</string>
+    <string name="textLabel3">Tip percentage:</string>
+    <string name="textLabel4">Tip amount:</string>
+    <string name="textLabel5">Total to pay:</string>
+    <string name="textLabel6">Total per Person:</string>
+    <string name="radioText1">15%</string>
+    <string name="radioText2">20%</string>
+    <string name="radioText3">Other:</string>
+    <string name="buttonReset">Reset</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="tipAmount" />
+    <string name="textTotal" />
+    <string name="textPerPerson" />
+</resources>
