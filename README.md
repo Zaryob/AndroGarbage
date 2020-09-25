@@ -25,6 +25,8 @@ Tamamen öğrenmek için olan örnekleri içeriyor.
 	* RadioButton: RadioButton uzun bir çubuk boyunca seçili noktanın hareketine bağlı olarak değer atanmasını sağlar.
 Uygulamanın amacı bir restoranta gidenlerin hesap bölüşmesi için kolay bir uygulama oluşturmaktır.
 * [DonunaKadar](ihttps://github.com/Zaryob/AndroGarbage/tree/master/TipCalculator) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/DonunaKadar.apk): DonunaKadar uygulaması sayesinde permission granted yaparak her türlü izini alır izin aldığınız kişinin donuna kadar almanızı sağlar.
+* [SensorListenerExample](ihttps://github.com/Zaryob/AndroGarbage/tree/master/SensorListenerExample) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/SensorListenerExample.apk): SensorEventListener için basit kullanımları içeren bir örnek uygulama.
+
 
 
 
