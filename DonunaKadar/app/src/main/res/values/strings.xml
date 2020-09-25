@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android 4+ İzin Örneği</string>
+    <string name="message">Şimdi bu uygulama donunuza kadar tüm şeyinizi almak amacıyla yazılmış bir uygulamadır..</string>
+    <string name="ok">Tamam</string>
+    <string name="back">Geri</string>
+    <string name="permissions_not_granted">Hay aksi, izin verilmedi!</string>
+    <string name="external_storage_rationale">Dosyalarınızı okumamız ve yazmamış için dahili dosya sisteminize erişim sağlamamız gerekir.</string>
+    <string name="access_files">Dosya İzinlerini İste.</string>
+    <string name="checking_access_files">Dosya İzinlerini kontrol ediyoruz.</string>
+    <string name="file_permissions_worked">Dosya İzinleri alındı ve dosyaya erişim sağlandı.</string>
+    <string name="file_permissions_received">Dosya İzinleri talebi istendi.</string>
+    <string name="file_permission_display">Ek içerik sağlamak için WRITE_EXTERNAL_STORAGE izin gerekçesinin görüntülenmesi.</string>
+    <string name="file_permissions_did_not_work">Sanırım bir şeyler ters gitti!</string>
+    <string name="permission_available_external_storage">Dahili depolama birimi erişimi alındı. Artık her bokunuza erişebiliriz.</string>
+    <string name="file_request_permission">WRITE_EXTERNAL_STORAGE izni alınamadı. İzin talebinde bulunuluyor.</string>
+</resources>
