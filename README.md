@@ -26,6 +26,8 @@ Tamamen öğrenmek için olan örnekleri içeriyor.
 Uygulamanın amacı bir restoranta gidenlerin hesap bölüşmesi için kolay bir uygulama oluşturmaktır.
 * [DonunaKadar](https://github.com/Zaryob/AndroGarbage/tree/master/TipCalculator) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/DonunaKadar.apk): DonunaKadar uygulaması sayesinde permission granted yaparak her türlü izini alır izin aldığınız kişinin donuna kadar almanızı sağlar.
 * [SensorListenerExample](https://github.com/Zaryob/AndroGarbage/tree/master/SensorListenerExample) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/SensorListenerExample.apk): SensorEventListener için basit kullanımları içeren bir örnek uygulama.
+* [BatteryStatus](https://github.com/Zaryob/AndroGarbage/tree/master/BatteryStatus) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/BatteryStatus.apk): BatteryStatus Toast Kullanarak sizin kalan batarya miktarınızı geri döneren bir uygulamadır. İleride layout içerisinden tamamen kurtarıp servis olarak kullanabilmek amacıyla boş layout ile generate ettim.
+
 
 
 
