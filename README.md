@@ -28,6 +28,8 @@ Uygulamanın amacı bir restoranta gidenlerin hesap bölüşmesi için kolay bir
 * [SensorListenerExample](https://github.com/Zaryob/AndroGarbage/tree/master/SensorListenerExample) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/SensorListenerExample.apk): SensorEventListener için basit kullanımları içeren bir örnek uygulama.
 * [BatteryStatus](https://github.com/Zaryob/AndroGarbage/tree/master/BatteryStatus) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/BatteryStatus.apk): BatteryStatus Toast Kullanarak sizin kalan batarya miktarınızı geri döneren bir uygulamadır. İleride layout içerisinden tamamen kurtarıp servis olarak kullanabilmek amacıyla boş layout ile generate ettim.
 * [SplashScreen](https://github.com/Zaryob/AndroGarbage/tree/master/SplashScreen) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/SplashScreen.apk): Aralarda progress bar ile splash screen oluşturacak bir uygulama örneği.
+* [DetailedIntent](https://github.com/Zaryob/AndroGarbage/tree/master/DetailedIntent) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/DetailedIntent.apk): Ne bileyim yeniden yaptım şu çöpü.
+* [EmailExample](https://github.com/Zaryob/AndroGarbage/tree/master/EmailExample) [apk](https://github.com/Zaryob/AndroGarbage/releases/download/apklar/EmailExample.apk): EmailExample uygulaması ile email atmayı intent ile halledioz.
 
 
 Notlar
